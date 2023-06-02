@@ -6,3 +6,7 @@ Changes done in Feature
 First changes in Feature2
 
 Making some change in Feature
+
+
+commiting changes in Hotfix
+
